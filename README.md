@@ -7,3 +7,8 @@ Nous verrons dans ce tutoriel comment créer facilement son premier filtre de r�
 - Un smartphone
 ## But du guide
 Le but de ce guide est de présenter de manière générale Spark AR Studio., de créer un filtre de masque facial pour fan de sport, le tester et l’exporter vers Instagram.
+## Prérequis
+- Avoir accès à une machine connectée a internet
+- Avoir accès à une smartphone connectée a internet
+- Avoir téléchargé et installé Spark AR studio sur votre machine (Si vous n l’avez pas encore fait ou ne savez pas comment le faire ce n’est pas un problème car nous expliquerons comment le faire dans ce tutoriel).
+## Introduction a Spark AR studio
