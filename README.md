@@ -22,7 +22,7 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 
 **Spark AR Player** est une application pour iOS et Android, qui qui vous permet de voir à quoi ressembleront en direct vos filtres AR sur un smartphone avant de le publier publiquement sur **Instagram** ou **Facebook**. 
 
-*Créer votre tout premier filtre AR Instagram signifiera apprendre de nouvelles idées et de nouvelles terminologies, mais rien que vous ne puissiez comprendre. Voici un guide étape par étape pour la prise en main de Spark AR Studio afin que vous puissiez commencer à créer votre propre filtre.
+#### Créer votre tout premier filtre AR Instagram signifiera apprendre de nouvelles idées et de nouvelles terminologies, mais rien que vous ne puissiez comprendre. Voici un guide étape par étape pour la prise en main de Spark AR Studio afin que vous puissiez commencer à créer votre propre filtre.
 1. Télécharger le logiciel Spark AR Studio
 La première étape est de télécharger le logiciel Spark AR Studio en allant sur le site officiel à l’adresse suivante : https://sparkar.facebook.com/ar-studio/download/. Cliquez sur « download » (télécharger en français) en haut et à droite de la page qui s’affichera à votre écran. 
 2. Télécharger Spark AR Player
