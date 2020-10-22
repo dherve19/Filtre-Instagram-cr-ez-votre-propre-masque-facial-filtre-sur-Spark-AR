@@ -14,7 +14,7 @@ Le but de ce guide est de fournir un aperçu général de Spark AR Studio, de cr
 - Avoir téléchargé et installé **Spark AR studio** sur votre machine (Si vous ne l'avez pas encore fait ou ne savez pas comment le faire, ce n'est pas grave car nous vous expliquerons comment le faire dans ce tutoriel).
 - Avoir installé l’application pour iOS et Android **Spark AR Player** sur votre smartphone.
 ## Introduction et Prise en main de Spark AR Studio
-La **réalité augmentée (ou RA)** est une technologie qui permet la superposition des éléments virtuels (sons, images 2D, 3D, vidéos, etc.)au sein d’un environnement en temps réel. Le principe est de combiner le virtuel et le réel et donner l’illusion d’une intégration parfaite à l’utilisateur.
+La **réalité augmentée (RA)** est une technologie qui permet la superposition des éléments virtuels (sons, images 2D, 3D, vidéos, etc.)au sein d’un environnement en temps réel. Le principe est de combiner le virtuel et le réel et donner l’illusion d’une intégration parfaite à l’utilisateur.
 
 **Les filtres de réalité augmentée (RA)** sont des effets générés par ordinateur conçus pour être superposés à des images réelles. Les filtres AR fonctionnent avec votre appareil photo, ajoutant un calque ou des images au premier plan ou à l'arrière-plan de votre image. Alors que les filtres AR Instagram ont été introduits en 2017, il n'était pas possible pour quiconque de créer ses propres filtres AR jusqu'à récemment ou Facebook a publié son application de filtre AR  appelée Spark AR Studio.
 
