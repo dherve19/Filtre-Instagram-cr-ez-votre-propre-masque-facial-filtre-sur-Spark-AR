@@ -39,13 +39,17 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 - Choisissez le disque local sur lequel vous souhaitez installer Spark AR, nous vous conseillons de laisser les valeurs par défaut et de cliquer simplement sur « Next »
 - Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « Install » ensuite sur « finish » pour terminer l'installation.
 > Vérifions maintenant que l'installation s'est bien déroulée en lançant l'application.  
-4. **Lancer le logiciel Spark AR Studio. ** Vous devez vous rendre sur la page d'accueil de votre PC Windows. Ensuite, en bas à gauche de votre écran, vous voyez un carré blanc composé de quatre autres carrés blancs, qui représente le menu de votre ordinateur. À côté de ce carré, vous avez la barre de recherche, il vous suffit de taper (Spark AR) dans la barre de recherche. Vous verrez apparaître l'icône Spark AR. Cliquez sur cette icône et Attendez quelques secondes pour que l’application soit lancée. Vous découvrez cette interface ou tout du moins similaire, car le logiciel évolue assez rapidement, des nouvelles fonctionnalités sont ajoutées toutes les deux semaines.
-> **Remarque : ** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
-
-Cet écran d’accueil vous présente des exemples de filtres déjà réaliser qui sont aussi des tutoriels pour créer un filtre. Il y a également une section pour apprendre, intitulé « Learn » sur la barre latérale à gauche, qui vous redirigera vers des vidéos d’apprentissage, la totalité sont en anglais. Nous vous encourageons à les ouvrir et à y jeter un coup d'œil. Pour ce tutoriel, Nous prendrons l’option « New Project » en haut à gauche qui nous permet de créer un nouveau projet a la base, sans utiliser un projet prédéfini.
-Une nouvelle fenêtre s’ouvre à nous dans laquelle nous voyons plusieurs touches que Nous ne pourrons pas présenter explicitement ici. Nous alors une présentation briefe.
-
-
+4. **Lancer le logiciel Spark AR Studio.** Vous devez vous rendre sur la page d'accueil de votre PC Windows. Ensuite, en bas à gauche de votre écran, vous verrez un carré blanc composé de quatre autres carrés blancs, qui représente le menu de votre ordinateur. À côté de ce carré, vous avez la barre de recherche, il vous suffit de taper (Spark AR) dans la barre de recherche. Vous verrez apparaître l'icône Spark AR. Cliquez sur cette icône et Attendez quelques secondes pour que l’application soit lancée. Vous découvrez cette fenetre ou tout du moins similaire, car le logiciel évolue assez rapidement (des nouvelles fonctionnalités sont ajoutées toutes les deux semaines).
+> **Remarque :** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
+### Présentation de l’interface de Spark AR Studio.
+L'écran d’accueil de Spark AR vous présente des exemples de projets de base deja realise qui sont aussi des tutoriels pour créer vos filtres. Sur la barre latérale à gauche de votre ecran, une section intitulé « Learn »  vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option « Create a Project » en haut à gauche qui nous permet de créer un nouveau projet a la base, sans utiliser un projet prédéfini.Lorsque vous cliquez sur "Créer un nouveau projet" sur la page d'accueil de Spark AR, vous êtes redirigé vers ce tableau de bord:
+Une nouvelle fenêtre s’ouvre à nous dans laquelle nous voyons plusieurs touches que Nous ne pourrons pas tous présenter explicitement ici. 
+L’interface de creation de filtre est composée de 5 zones principales.
+- La zone 1, située tout à gauche, comporte plusieurs boutons d’actions tels que la caméra (qui vous permettra de choisir des personnages pré-définis pour avoir un aperçu de votre filtre ou alors activer votre webcam de l’ordinateur pour avoir un aperçu en direct), pause/play, rafraichir, recherche, tester le filtre sur votre appareil, exporter, la bibliothèque de Spark AR Studio, etc.
+- La zone 2 représente la « Scène » qui vous servira pour ajouter des fonctionnalités dans votre filtre, comme pour suivre les mouvements du visage, etc
+- La zone 3 contient les « Assets » . Vous y retrouvez tout ce qui est objet 3D, matériel, texture.
+- La zone 4 représente votre appareil avec son écran. Vous donnant la possibilité d avoir un aperçu en direct de votre filtre sur un modèle de personnage pré-défini, que vous pourrez modifier.La fenêtre d’aperçu en direct, avec ici, un modèle de personnage pré-défini, que vous pourrez modifier.
+- La zone 5 située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
 
 Étapes:
 
@@ -70,4 +74,4 @@ Si vous souhaitez continuer à travailler sur ce projet, voici quelques idées:
 - https://sparkar.facebook.com/ar-studio/learn/tutorials/
 
 ## Contributeurs
-**Sage Destin** Salut cher lecteur! Je suis étudiant en biochimie à l'Université de Buea, Cameroun, passionné de technologie, débutant dans la création de  filtrer Spark AR et le développement front-end.
+**Sage Destin** Salut cher lecteur et lectrice! Je suis étudiant en biochimie à l'Université de Buea, Cameroun, passionné de technologie, débutant dans la création de  filtrer Spark AR et le développement front-end.
