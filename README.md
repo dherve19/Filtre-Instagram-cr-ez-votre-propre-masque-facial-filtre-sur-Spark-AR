@@ -14,6 +14,11 @@ Le but de ce guide est de fournir un aperçu général de Spark AR Studio, de cr
 - Avoir téléchargé et installé **Spark AR studio** sur votre machine (Si vous ne l'avez pas encore fait ou ne savez pas comment le faire, ce n'est pas grave car nous vous expliquerons comment le faire dans ce tutoriel).
 - Avoir installé l’application pour iOS et Android **Spark AR Player** sur votre smartphone.
 - Avoir un compte Instagram et/ou Facebook en règle.
+## Prérequis
+- Introduction et Prise en main de Spark AR Studio
+- creer son filtre
+- publier sur Instagram
+
 ## Introduction et Prise en main de Spark AR Studio
 La **réalité augmentée (RA)** est une technologie qui permet la superposition des éléments virtuels (sons, images 2D, 3D, vidéos, etc.)au sein d’un environnement en temps réel. Le principe est de combiner le virtuel et le réel et donner l’illusion d’une intégration parfaite à l’utilisateur.
 
