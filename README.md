@@ -59,3 +59,15 @@ Une nouvelle fenêtre s’ouvre à nous dans laquelle nous voyons plusieurs touc
 
 
 J’espère que ce tutorial vous aura aider à installer et créer votre premier repository avec Github.
+## Conclusion
+
+## What’s next?
+Si vous souhaitez continuer à travailler sur ce projet, voici quelques idées:
+- Ajoutez plus de drapeaux d'autres pays et clubs sportifs dans ce projet;
+- Créer de nouveaux effets en utilisant d'autres fonctionnalités de Spark AR comme.
+## Pour en savoir plus sur Spark AR.
+ Voici quelques recommandations pour poursuivre votre apprentissage et de développer vos compétences sur Spark AR:
+- https://sparkar.facebook.com/ar-studio/learn/tutorials/
+
+## Contributeurs
+**Sage Destin** Salut cher lecteur! Je suis étudiant en biochimie à l'Université de Buea, Cameroun, passionné de technologie, débutant dans la création de  filtrer Spark AR et le développement front-end.
