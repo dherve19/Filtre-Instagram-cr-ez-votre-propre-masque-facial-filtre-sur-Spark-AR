@@ -16,7 +16,7 @@ Le but de ce guide est de fournir un aperçu général de Spark AR Studio, de cr
 - Avoir un compte Instagram et/ou Facebook en règle.
 ## Sommaire
 - Introduction et Prise en main de Spark AR Studio
-- créer son filtre
+- Création d’un filtre pour fan de sport (FanMask)
 - publier sur Instagram
 
 ## Introduction et Prise en main de Spark AR Studio
@@ -39,32 +39,24 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 - Choisissez le disque local sur lequel vous souhaitez installer Spark AR, nous vous conseillons de laisser les valeurs par défaut et de cliquer simplement sur « Next »
 - Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « Install » ensuite sur « finish » pour terminer l'installation.
 > Vérifions maintenant que l'installation s'est bien déroulée en lançant l'application.  
-4. **Lancer le logiciel Spark AR Studio. ** Rendez-vous rendre sur la page d'accueil de votre PC Windows. Taper (Spark AR) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Apres  vous être connecte avec soit votre compte Facebook ou Instagram, une fenêtre ou tout du moins similaire s’ouvrira, (car le logiciel évolue assez rapidement du a l’ajout des nouvelles fonctionnalités toutes les deux semaines).
+4. **Lancer le logiciel Spark AR Studio.** Rendez-vous rendre sur la page d'accueil de votre PC Windows. Taper (Spark AR) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Apres  vous être connecte avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira ( le logiciel évolue assez rapidement du a l’ajout des nouvelles fonctionnalités toutes les deux semaines).
 > **Remarque :** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
 ### Présentation de l’interface de Spark AR Studio.
-L'écran d’accueil de Spark AR vous présente des exemples de projets de base déjà réalise qui sont aussi des tutoriels pour créer vos filtres. Sur la barre latérale à gauche de votre écran, une section intitulée « Learn » vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option « Create a Project » en haut à gauche qui nous permet de créer un nouveau projet a la base, sans utiliser un projet prédéfini. Lorsque vous cliquez sur "Créer un nouveau projet" sur la page d'accueil de Spark AR, vous êtes redirigé vers ce tableau de bord:
-Une nouvelle fenêtre s’ouvre à nous dans laquelle nous voyons plusieurs touches que Nous ne pourrons pas tous présenter explicitement ici. 
-L’interface de création de filtre est composée de 5 zones principales.
+L'écran d’accueil de Spark AR vous présente des exemples de projets de base déjà réalisés qui sont aussi des tutoriels. Sur la barre latérale à gauche de votre écran, une section intitulée « Learn » vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option « Create a Project » en haut à gauche qui nous permet de créer un nouveau projet a la base, sans utiliser un projet prédéfini. 
+Cliquez ensuite sur “Blank projet" pour  acceder autableau de bord où nous créons notre filtre de zéro. Ce tableau contient plusieurs touches que nous ne pourrons pas tous présenter explicitement ici. Disons de manière générale que l’interface de création de filtre est composée de 5 zones principales à savoir :
 - La zone 1, située tout à gauche, comporte plusieurs boutons d’actions tels que la caméra (qui vous permettra de choisir des personnages prédéfinis pour avoir un aperçu de votre filtre ou alors activer votre webcam de l’ordinateur pour avoir un aperçu en direct), pause/play, rafraichir, recherche, tester le filtre sur votre appareil, exporter, la bibliothèque de Spark AR Studio, etc.
 - La zone 2 représente la « Scène » qui vous servira pour ajouter des fonctionnalités dans votre filtre, comme pour suivre les mouvements du visage, etc.
 - La zone 3 contient les « Assets ». Vous y retrouvez tout ce qui est objet 3D, matériel, texture.
 - La zone 4 représente votre appareil avec son écran. Vous donnant la possibilité d’avoir un aperçu en direct de votre filtre sur un modèle de personnage prédéfini, que vous pourrez modifier. La fenêtre d’aperçu en direct, avec ici, un modèle de personnage prédéfini, que vous pourrez modifier.
 - La zone 5 située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
+## Création d’un filtre pour fan de sport (FanMask)
+1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Pour cela allons sur Sur le côté gauche de la fenêtre, dans l'onglet "Scène", faîtes un clic droit sur « Focal Distance », mettez votre curseur sur « Add » et dans la liste qui  vous sera propose choisissez « Face Tracker », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. l’élément « faceTracker » doit être au même niveau que les deux  éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous a raté quelque chose, repartez de zéro. le « Facetracker »  permet de trouver et suivre les mouvements d’un visage
+2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clic droit sur l’objet « Face Mesh », mettez votre curseur sur « Add » et cliquez sur élément « Face Mesh » dans la liste prposee.
+> Dans « Scene », vous avez maintenant un « Face Tracker » qui possède un « Face Mesh ».
+3. **Ajoutez un matériel Dans les propriétés du « Face Mesh ».**  Vous devez cliquer sur « + » à droite de « Materials ».
 
-Étapes :
-
-1: Ouvrez Spark AR, sélectionnez "Créer Nouveau Projet".
-
-2: Cliquez sur l'icône Avatar dans le coin supérieur droit de .
-
-3: Connectez.
-
-4: Après la connexion, il vous montrera en tant qu'utilisateur payant.
-
-
-J’espère que ce tutorial vous aura aider à installer et créer votre premier repository avec Github.
 ## Conclusion
-
+Très bien ! ’espère que ce tutorial vous aura aider et que maintenant vous savez  comment créer des filtres en réalité augmentée pour Instagram.
 ## What’s next?
 Si vous souhaitez continuer à travailler sur ce projet, voici quelques idées :
 - Ajoutez plus de drapeaux d'autres pays et clubs sportifs dans ce projet ;
