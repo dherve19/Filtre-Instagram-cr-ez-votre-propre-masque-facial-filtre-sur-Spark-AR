@@ -25,24 +25,20 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 
 #### Créer votre tout premier filtre AR Instagram signifiera apprendre de nouvelles idées et de nouvelles terminologies, mais rien que vous ne puissiez comprendre. Voici un guide étape par étape pour la prise en main de Spark AR Studio afin que vous puissiez commencer à créer votre propre filtre.
 1. **Télécharger le logiciel Spark AR Studio** en allant sur le site officiel à l’adresse suivante : https://sparkar.facebook.com/ar-studio/download/. Cliquez sur « **download** » (télécharger en français) en haut et à droite de la page qui s’affichera à votre écran. 
-2. **Télécharger Spark AR Player** qui est disponible sur le Play Store de Google pour les appareils Android et sur l'App Store d'Apple pour les iPhones. Vous trouverez également cette application au milieu de la page https://sparkar.facebook.com/ar-studio/download/. Depuis votre smartphone, vous devrez cliquer sur l’un des deux boutons de téléchargement (un pour iOS et un autre pour Android) situé sous « **Get the Spark AR Player** », car depuis votre ordinateur, il ne se passera rien.
-3. **Installer le logiciel Spark AR Studio** si vous ne savez pas comment faire, suivez ces instructions, c'est un jeu d’enfant. 
-- Double cliquez simplement sur l’icone du fichier téléchargé. Sur l'interface qui vous est présentée, cliquez sur le bouton, cliquez sur le bouton « **Run** » 
+2. **Installer Spark AR Player** qui est disponible sur le Play Store de Google pour les appareils Android et sur l'App Store d'Apple pour les iPhones. Vous trouverez également cette application au milieu de la page https://sparkar.facebook.com/ar-studio/download/. Depuis votre smartphone, vous devrez cliquer sur l’un des deux boutons de téléchargement (un pour iOS et un autre pour Android) situé sous « **Get the Spark AR Player** », car depuis votre ordinateur, il ne se passera rien.
+3. **Installer le logiciel Spark AR Studio.** Si vous ne savez pas comment faire, suivez ces instructions, c'est un jeu d’enfant (nous utilisons la v ersion 99 du 10/20/2020 Windows dans ce tutoriel). 
+- Double cliquez sur l’icone du fichier téléchargé. Sur l'interface qui vous est présentée, cliquez sur le bouton « **Run** » 
 - Cliquez ensuite sur le bouton  « Next »
 - Acceptez les termes du contrat de licence et cliquez sur « Next »
-- Dans la nouvelle fenêtre, Cliquez a nouveau sur « Next »
+- Dans la nouvelle fenêtre, Cliquez à nouveau sur « Next »
 - Choisissez le disque local sur lequel vous souhaitez installer Spark AR, je vous conseille de laisser les valeurs par défaut et de cliquer simplement sur « Next »
 - Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « Install » ensuite sur « finish » pour terminer l'installation.
-
-
-
-Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur installer. Vous venez alors d’installer les éléments suivants sur votre machine
-Vérifions maintenant que l’installation s’est bien déroulé. Nous allons utiliser une commande de base de l’outil qui est “git version” et qui permet d’afficher le numéro de version de Git.
-
-
-
-Une fois le fichier télécharge, il vous faut le dézipper et l’installer sur votre ordinateur (nous utilisons la v ersion 99 du 10/20/2020 Windows dans ce tutoriel). Afin de vous assurer que l’application a bien été installée, soit vous cliquez sur « Ouvrir » 
+> Vérifions maintenant que l'installation s'est bien déroulée en lançant l'application.  
 4. **Lancer le logiciel Spark AR Studio.** Vous devez vous rendre sur la page d'accueil de votre PC Windows. Ensuite, en bas à gauche de votre écran, vous voyez un carré blanc composé de quatre autres carrés blancs, qui représente le menu de votre ordinateur. À côté de ce carré, vous avez la barre de recherche, il vous suffit de taper (Spark AR) dans la barre de recherche. Vous verrez apparaître l'icône Spark AR. Cliquez sur cette icône et  Attendez quelques secondes pour que l’application soit lancer. 
+
+Si l’installation c’est bien déroulée, vous devriez avoir l’affichage suivant (au numéro de versions près) :
+
+
 
 > **Remarque:** Si vous rencontrez malgré tout quelques difficultés sur l’installation  ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
 
@@ -60,3 +56,6 @@ Une nouvelle fenêtre s’ouvre à nous dans laquelle nous voyons plusieurs touc
 3: Connectez.
 
 4: Après la connexion, il vous montrera en tant qu'utilisateur payant.
+
+
+J’espère que ce tutorial vous aura aider à installer et créer votre premier repository avec Github.
