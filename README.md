@@ -33,13 +33,13 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 2. **Installer Spark AR Player** qui est disponible sur le Play Store de Google pour les appareils Android et sur l'App Store d'Apple pour les iPhones. Vous trouverez également cette application au milieu de la page https://sparkar.facebook.com/ar-studio/download/. Depuis votre smartphone, vous devrez cliquer sur l’un des deux boutons de téléchargement (un pour iOS et un autre pour Android) situé sous « **Get the Spark AR Player** », car depuis votre ordinateur, il ne se passera rien.
 3. **Installer le logiciel Spark AR.** Si vous ne savez pas comment faire, suivez ces instructions, c'est un jeu d’enfant (nous utilisons la version 99 du 10/20/2020 pour Windows dans ce tutoriel). 
 - Double cliquez sur l’icône du fichier téléchargé. Sur l'interface qui vous est présentée, cliquez sur le bouton « **Run** » 
-- Cliquez ensuite sur le bouton « Next »
-- Acceptez les termes du contrat de licence et cliquez sur « Next »
-- Dans la nouvelle fenêtre, Cliquez à nouveau sur « Next »
-- Choisissez le disque local sur lequel vous souhaitez installer Spark AR, nous vous conseillons de laisser les valeurs par défaut et de cliquer simplement sur « Next »
-- Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « Install » ensuite sur « finish » pour terminer l'installation.
+- Cliquez ensuite sur le bouton « **Next »
+- Acceptez les termes du contrat de licence et cliquez sur « **Next »
+- Dans la nouvelle fenêtre, Cliquez à nouveau sur « **Next »
+- Choisissez le disque local sur lequel vous souhaitez installer Spark AR, nous vous conseillons de laisser les valeurs par défaut et de cliquer simplement sur « **Next »
+- Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « **Install** » ensuite sur « **finish** » pour terminer l'installation.
 > Vérifions maintenant que l'installation s'est bien déroulée en lançant l'application.  
-4. **Lancer le logiciel Spark AR Studio.** Rendez-vous sur la page d'accueil de votre PC Windows. Taper (Spark AR) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Après vous être connecte avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira (le logiciel évolue assez rapidement du a l’ajout des nouvelles fonctionnalités toutes les deux semaines).
+4. **Lancer le logiciel Spark AR Studio.** Rendez-vous sur la page d'accueil de votre PC Windows. Taper (**Spark AR**) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Après vous être connecté avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira (le logiciel évolue assez rapidement du a l’ajout des nouvelles fonctionnalités toutes les deux semaines).
 > **Remarque :** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
 ### Présentation de l’interface de Spark AR Studio.
 L'écran d’accueil de Spark AR vous présente des exemples de projets de base déjà réalisés qui sont aussi des tutoriels. Sur la barre latérale à gauche de votre écran, une section intitulée « Learn » vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option « Create a Project » en haut à gauche qui nous permet de créer un nouveau projet a la base, sans utiliser un projet prédéfini. 
@@ -51,24 +51,10 @@ Cliquez ensuite sur “Blank projet" pour accéder au tableau de bord où nous c
 - La zone 5 située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
 > La prise en main terminée, nous allons commencer la création d’un filtre pour fan de sport (FanMask).
 ## Création d’un filtre pour fan de sport (FanMask)
-1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Pour cela allez dans l'onglet "Scène", faîtes un clic droit sur « Focal Distance », mettez votre curseur sur « Add » et dans la liste qui  vous sera proposé choisissez « Face Tracker », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous a raté quelque chose, repartez de zéro. Le « Facetracker » permet de trouver et suivre les mouvements d’un visage
-2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clic droit sur l’objet « Face Mesh », mettez votre curseur sur « Add » et cliquez sur élément « Face Mesh » dans la liste prposée.
+1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Le « Facetracker » permet de trouver et suivre les mouvements d’un visage, pour le Créer allez dans l'onglet "Scène", faîtes un clique droit sur « **Focal Distance** », mettez votre curseur sur « **Add** » et dans la liste qui  vous sera proposé choisissez « **Face Tracker** », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous avez raté quelque chose, repartez de zéro. 
+2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clique droit sur l’objet « **Face Mesh** », mettez votre curseur sur « **Add** » et cliquez sur élément « **Face Mesh** » dans la liste prposée.
 > Dans « Scene », vous avez maintenant un « Face Tracker » qui possède un « Face Mesh ».
-3. **Ajoutez un matériel dans les propriétés du « Face Mesh ».**  Vous devez cliquer sur « + » à droite de « Materials ». 
-Créer un matériau
-Pour créer un matériau pour le maillage de face, assurez-vous qu'il est sélectionné dans le panneau Scène.
-
-Sur la droite de l'interface se trouve l'inspecteur. C'est ici que vous pouvez apporter des modifications à l'objet ou à la ressource que vous avez sélectionné dans le panneau Scène, notamment en créant des matériaux.
-
-Dans l'inspecteur, cliquez sur + à côté de Matériau pour créer un matériau pour le maillage de face.
-
-Le matériau sera répertorié dans le panneau Actifs en tant que matériau0:
-Vous pouvez renommer des objets et des actifs dans Spark AR Studio. C'est une bonne idée de le faire, pour vous aider à rester organisé pendant que vous construisez votre projet. Tout ce que vous avez à faire est de cliquer avec le bouton droit de la souris sur l'objet et de sélectionner Renommer. Pour ce tutoriel:
-
-Cliquez avec le bouton droit sur le matériau 0.
-Sélectionnez Renommer.
-renommer le matériau mask_material.
-
+3. **Ajoutez un matériau dans les propriétés du « Face Mesh » pour le maillage de face.** Cliquez sur «** +** » à droite de « **Materials** » situé dans la zone 5. Votre matériau sera répertorié dans le panneau Actifs en tant que matérial0 que vous pouvez renommer pour vous aider à rester organisé pendant que vous construisez votre projet. Pour ce tutoriel nous allons renommer notre  matériau0 « **facemap** ». Pour cela, faites un clic droit sur « matériau0 », Sélectionnez « rename » et renommez le « **matériau0** » en « **facemap** »
 Vous verrez le matériau recouvrant le maillage de la face dans la fenêtre et le simulateur:
 ## Publier votre filtre fanMask sur Instagram
 Une fois produit votre filtre, **Spark AR Hub** vous aide à soumettre votre filtre AR pour approbation. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. Spark AR Hub donne également aux créateurs la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram. Lorsque vous êtes prêt à publier votre filtre AR, cliquez sur le bouton "importer" dans le coin inférieur gauche de l'application.
