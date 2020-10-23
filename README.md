@@ -17,7 +17,7 @@ Le but de ce guide est de fournir un aperçu général de Spark AR Studio, de cr
 ## Sommaire
 - Introduction et Prise en main de Spark AR Studio
 - Création d’un filtre pour fan de sport (FanMask)
-- publier sur Instagram
+- Publier votre filtre fanMask sur Instagram
 
 ## Introduction et Prise en main de Spark AR Studio
 La **réalité augmentée (RA)** est une technologie qui permet la superposition des éléments virtuels (sons, images 2D, 3D, vidéos, etc.) au sein d’un environnement en temps réel. Le principe est de combiner le virtuel et le réel et donner l’illusion d’une intégration parfaite à l’utilisateur.
@@ -49,18 +49,44 @@ Cliquez ensuite sur “Blank projet" pour accéder au tableau de bord où nous c
 - La zone 3 contient les « Assets ». Vous y retrouvez tout ce qui est objet 3D, matériel, texture.
 - La zone 4 représente votre appareil avec son écran. Vous donnant la possibilité d’avoir un aperçu en direct de votre filtre sur un modèle de personnage prédéfini, que vous pourrez modifier. La fenêtre d’aperçu en direct, avec ici, un modèle de personnage prédéfini, que vous pourrez modifier.
 - La zone 5 située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
+> La prise en main terminée, nous allons commencer la création d’un filtre pour fan de sport (FanMask).
 ## Création d’un filtre pour fan de sport (FanMask)
 1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Pour cela allez dans l'onglet "Scène", faîtes un clic droit sur « Focal Distance », mettez votre curseur sur « Add » et dans la liste qui  vous sera proposé choisissez « Face Tracker », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous a raté quelque chose, repartez de zéro. Le « Facetracker » permet de trouver et suivre les mouvements d’un visage
 2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clic droit sur l’objet « Face Mesh », mettez votre curseur sur « Add » et cliquez sur élément « Face Mesh » dans la liste prposée.
 > Dans « Scene », vous avez maintenant un « Face Tracker » qui possède un « Face Mesh ».
-3. **Ajoutez un matériel Dans les propriétés du « Face Mesh ».**  Vous devez cliquer sur « + » à droite de « Materials ».
+3. **Ajoutez un matériel dans les propriétés du « Face Mesh ».**  Vous devez cliquer sur « + » à droite de « Materials ». 
+Créer un matériau
+Pour créer un matériau pour le maillage de face, assurez-vous qu'il est sélectionné dans le panneau Scène.
+
+Sur la droite de l'interface se trouve l'inspecteur. C'est ici que vous pouvez apporter des modifications à l'objet ou à la ressource que vous avez sélectionné dans le panneau Scène, notamment en créant des matériaux.
+
+Dans l'inspecteur, cliquez sur + à côté de Matériau pour créer un matériau pour le maillage de face.
+
+Le matériau sera répertorié dans le panneau Actifs en tant que matériau0:
+Vous pouvez renommer des objets et des actifs dans Spark AR Studio. C'est une bonne idée de le faire, pour vous aider à rester organisé pendant que vous construisez votre projet. Tout ce que vous avez à faire est de cliquer avec le bouton droit de la souris sur l'objet et de sélectionner Renommer. Pour ce tutoriel:
+
+Cliquez avec le bouton droit sur le matériau 0.
+Sélectionnez Renommer.
+renommer le matériau mask_material.
+
+Vous verrez le matériau recouvrant le maillage de la face dans la fenêtre et le simulateur:
+## Publier votre filtre fanMask sur Instagram
+Une fois produit votre filtre, **Spark AR Hub** vous aide à soumettre votre filtre AR pour approbation. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. Spark AR Hub donne également aux créateurs la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram. Lorsque vous êtes prêt à publier votre filtre AR, cliquez sur le bouton "importer" dans le coin inférieur gauche de l'application.
+Les filtres AR sont soumis à l'examen de Facebook. Le processus peut prendre quelques jours. Assurez-vous que votre filtre respecte les politiques et directives de Spark AR. Pour plus d'informations sur la création de filtres approuvés sans échec, lisez la soumission des effets nouvellement créés pour approbation.
+
+
+Toutes nos félicitations! Vous avez créé votre premier effet Instagram Stories!
+
+Mais avant de pouvoir être partagé sur Instagram, il doit passer par un processus d'examen pour s'assurer qu'il respecte les politiques et les conditions de la plate-forme d'effets de caméra, ainsi que le règlement de la communauté d'Instagram.
+
+Tout d'abord, exportez votre effet en appuyant sur le bouton Exporter en bas à droite du tableau de bord Spark AR
 
 ## Conclusion
 Très bien ! ’espère que ce tutorial vous aura aider et que maintenant vous savez comment créer des filtres en réalité augmentée pour Instagram.
 ## What’s next?
 Si vous souhaitez continuer à travailler sur ce projet, voici quelques idées :
 - Ajoutez plus de drapeaux d'autres pays et clubs sportifs dans ce projet ;
-- Créer de nouveaux effets en utilisant d'autres fonctionnalités de Spark AR comme.
+- Créer de nouveaux effets en utilisant d'autres fonctionnalités de Spark AR comme la Création d'un effet d'éclat avec des passes de rendu.
 ## Pour en savoir plus sur Spark AR.
  Voici quelques recommandations pour poursuivre votre apprentissage et de développer vos compétences sur Spark AR :
 - https://sparkar.facebook.com/ar-studio/learn/tutorials/
