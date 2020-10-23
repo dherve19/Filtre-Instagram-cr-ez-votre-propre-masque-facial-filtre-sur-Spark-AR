@@ -51,7 +51,7 @@ Cliquez ensuite sur “Blank projet" pour accéder au tableau de bord où nous c
 - La zone 5 située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
 ## Création d’un filtre pour fan de sport (FanMask)
 1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Pour cela allez dans l'onglet "Scène", faîtes un clic droit sur « Focal Distance », mettez votre curseur sur « Add » et dans la liste qui  vous sera proposé choisissez « Face Tracker », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous a raté quelque chose, repartez de zéro. Le « Facetracker » permet de trouver et suivre les mouvements d’un visage
-2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clic droit sur l’objet « Face Mesh », mettez votre curseur sur « Add » et cliquez sur élément « Face Mesh » dans la liste prposee.
+2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clic droit sur l’objet « Face Mesh », mettez votre curseur sur « Add » et cliquez sur élément « Face Mesh » dans la liste prposée.
 > Dans « Scene », vous avez maintenant un « Face Tracker » qui possède un « Face Mesh ».
 3. **Ajoutez un matériel Dans les propriétés du « Face Mesh ».**  Vous devez cliquer sur « + » à droite de « Materials ».
 
