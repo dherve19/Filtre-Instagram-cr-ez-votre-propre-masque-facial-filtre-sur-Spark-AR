@@ -31,15 +31,44 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 **Spark AR Player** est une application pour iOS et Android, qui vous permet de voir à quoi ressembleront en direct vos filtres AR sur un smartphone avant de le publier publiquement sur **Instagram** ou **Facebook**. 
 
 #### Créer votre tout premier filtre AR Instagram signifiera apprendre de nouvelles idées et de nouvelles terminologies, Voici pour vous un guide étape par étape pour la prise en main de Spark AR Studio afin que vous puissiez commencer à créer votre propre filtre.
+
 1. **Télécharger le logiciel Spark AR Studio** en allant sur le site officiel à l’adresse suivante : https://sparkar.facebook.com/ar-studio/download/. Cliquez sur « **download** » (télécharger en français) en haut et à droite de la page qui s’affichera à votre écran. 
+
+![](images/2.PNG)
+
+
 2. **Installer Spark AR Player** qui est disponible sur le Play Store de Google pour les appareils Android et sur l'App Store d'Apple pour les iPhones. Vous trouverez également cette application au milieu de la page https://sparkar.facebook.com/ar-studio/download/. Depuis votre smartphone, vous devrez cliquer sur l’un des deux boutons de téléchargement (un pour iOS et un autre pour Android) situé sous « **Get the Spark AR Player** », car depuis votre ordinateur, il ne se passera rien.
+
 3. **Installer le logiciel Spark AR.** Si vous ne savez pas comment faire, suivez ces instructions, c'est un jeu d’enfant (nous utilisons la version 99 du 10/20/2020 pour Windows dans ce tutoriel). 
+
 - Double cliquez sur l’icône du fichier téléchargé. Sur l'interface qui vous est présentée, cliquez sur le bouton « **Run** » 
+
+![alt](images/4.PNG)
+
 - Cliquez ensuite sur le bouton « **Next »
+
+![alt text](images/5.PNG)
+
 - Acceptez les termes du contrat de licence et cliquez sur « **Next »
+
+![alt text](images/6.PNG)
+
 - Dans la nouvelle fenêtre, Cliquez à nouveau sur « **Next »
+
+![alt text](images/7.PNG)
+
 - Choisissez le disque local sur lequel vous souhaitez installer Spark AR, nous vous conseillons de laisser les valeurs par défaut et de cliquer simplement sur « **Next »
-- Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « **Install** » ensuite sur « **finish** » pour terminer l'installation.
+
+![alt text](images/8.PNG)
+
+- Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « **Install** » 
+
+![alt text](images/9.PNG)
+
+ensuite sur « **finish** » pour terminer l'installation.
+
+![alt text](images/10.PNG)
+
 > Vérifions maintenant que l'installation s'est bien déroulée en lançant l'application.  
 4. **Lancer le logiciel Spark AR Studio.** Rendez-vous sur la page d'accueil de votre PC Windows. Taper (**Spark AR**) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Après vous être connecté avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira (le logiciel évolue assez rapidement du a l’ajout des nouvelles fonctionnalités toutes les deux semaines).
 > **Remarque :** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
