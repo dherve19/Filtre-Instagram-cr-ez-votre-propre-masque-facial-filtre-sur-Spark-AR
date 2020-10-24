@@ -92,7 +92,7 @@ Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tou
 - **La zone 4** représente votre appareil avec son écran. Vous donnant la possibilité d’avoir un aperçu en direct de votre filtre sur un modèle de personnage prédéfini, que vous pourrez modifier. La fenêtre d’aperçu en direct, avec ici, un modèle de personnage prédéfini, que vous pourrez modifier.
 - **La zone 5** située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
 
-![alt text](images/13.PNG)
+![alt text](images/13.png)
 
 > La prise en main terminée, nous allons commencer la création d’un filtre pour fan de sport (FanMask).
 ## Création d’un filtre pour fan de sport (FanMask)
