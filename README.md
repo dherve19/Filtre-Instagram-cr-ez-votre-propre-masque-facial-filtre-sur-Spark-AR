@@ -70,8 +70,7 @@ enfin cliquez sur « **finish** » pour terminer l'installation.
 ![alt text](images/10.PNG)
 
 > Vérifions maintenant que l'installation s'est bien déroulée en lançant l'application.  
-4. **Lancer le logiciel Spark AR Studio.** Rendez-vous sur la page d'accueil de votre PC Windows. Taper (**Spark AR**) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Après vous être connecté avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira, cliquez sur « Maybe Later » (des nouvelles fonctionnalités sont ajoutées au logiciel toutes les deux semaines, vous pourriez avoir quelques choses légèrement différentes si vous utilisez une autre version). nous vous recommandons plus tard de revenir cliquez sur le bouton << Démarrer la visite >> qui vous montrera
-effets déjà réalisés et vous apprenez à les construire.
+4. **Lancer le logiciel Spark AR Studio.** Rendez-vous sur la page d'accueil de votre PC Windows. Taper (**Spark AR**) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Après vous être connecté avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira, cliquez sur « Maybe Later » (des nouvelles fonctionnalités sont ajoutées au logiciel toutes les deux semaines, vous pourriez avoir quelques choses légèrement différentes si vous utilisez une autre version). nous vous recommandons plus tard de revenir cliquez sur le bouton « **Start Tour** » qui vous montrera effets déjà réalisés et vous apprenez à les construire.
 
 ![alt text](images/11.PNG)
 
@@ -87,11 +86,11 @@ Cliquez ensuite sur “Blank projet" pour accéder au tableau de bord où nous c
 ![alt text](images/12.PNG)
 
 Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tous présenter explicitement ici. Disons de manière générale que cette interface de création de filtre est composée de 5 zones principales à savoir :
-- La zone 1, située tout à gauche, comporte plusieurs boutons d’actions tels que la caméra (qui vous permettra de choisir des personnages prédéfinis pour avoir un aperçu de votre filtre ou alors activer votre webcam de l’ordinateur pour avoir un aperçu en direct), pause/play, rafraichir, recherche, tester le filtre sur votre appareil, exporter, la bibliothèque de Spark AR Studio, etc.
-- La zone 2 représente la « Scène » qui vous servira pour ajouter des fonctionnalités dans votre filtre, comme pour suivre les mouvements du visage, etc.
-- La zone 3 contient les « Assets ». Vous y retrouvez tout ce qui est objet 3D, matériel, texture.
-- La zone 4 représente votre appareil avec son écran. Vous donnant la possibilité d’avoir un aperçu en direct de votre filtre sur un modèle de personnage prédéfini, que vous pourrez modifier. La fenêtre d’aperçu en direct, avec ici, un modèle de personnage prédéfini, que vous pourrez modifier.
-- La zone 5 située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
+- **La zone 1**, située tout à gauche, comporte plusieurs boutons d’actions tels que la caméra (qui vous permettra de choisir des personnages prédéfinis pour avoir un aperçu de votre filtre ou alors activer votre webcam de l’ordinateur pour avoir un aperçu en direct), pause/play, rafraichir, recherche, tester le filtre sur votre appareil, exporter, la bibliothèque de Spark AR Studio, etc.
+- **La zone 2** représente la « **Scene** » qui vous servira pour ajouter des fonctionnalités dans votre filtre, comme pour suivre les mouvements du visage, etc.
+- **La zone 3** contient les « **Assets** ». Vous y retrouvez tout ce qui est objet 3D, matériel, texture.
+- **La zone 4** représente votre appareil avec son écran. Vous donnant la possibilité d’avoir un aperçu en direct de votre filtre sur un modèle de personnage prédéfini, que vous pourrez modifier. La fenêtre d’aperçu en direct, avec ici, un modèle de personnage prédéfini, que vous pourrez modifier.
+- **La zone 5** située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
 
 ![alt text](images/13.PNG)
 
