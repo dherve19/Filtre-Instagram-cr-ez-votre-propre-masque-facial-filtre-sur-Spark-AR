@@ -70,12 +70,17 @@ enfin cliquez sur « **finish** » pour terminer l'installation.
 ![alt text](images/10.PNG)
 
 > Vérifions maintenant que l'installation s'est bien déroulée en lançant l'application.  
-4. **Lancer le logiciel Spark AR Studio.** Rendez-vous sur la page d'accueil de votre PC Windows. Taper (**Spark AR**) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Après vous être connecté avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira (le logiciel évolue assez rapidement du a l’ajout des nouvelles fonctionnalités toutes les deux semaines).
+4. **Lancer le logiciel Spark AR Studio.** Rendez-vous sur la page d'accueil de votre PC Windows. Taper (**Spark AR**) dans la barre de recherche située en bas, à gauche de votre écran et près du carré blanc composé de quatre autres carrés blancs représentant le menu de votre ordinateur. Vous verrez apparaître l'icône Spark AR, Cliquez dessus et Attendez quelques secondes pour que l’application soit lancée. Après vous être connecté avec soit votre compte Facebook, une fenêtre ou tout du moins similaire s’ouvrira, cliquez sur « Maybe Later » (des nouvelles fonctionnalités sont ajoutées au logiciel toutes les deux semaines, vous pourriez avoir quelques choses légèrement différentes si vous utilisez une autre version). nous vous recommandons plus tard de revenir cliquez sur le bouton << Démarrer la visite >> qui vous montrera
+effets déjà réalisés et vous apprenez à les construire.
+
+![alt text](images/11.PNG)
+
 > **Remarque :** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
+
 ### Présentation de l’interface de Spark AR Studio.
 L'écran d’accueil de Spark AR vous présente des exemples de projets de base déjà réalisés qui sont aussi des tutoriels. Sur la barre latérale à gauche de votre écran, une section intitulée « Learn » vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option « Create a Project » en haut à gauche qui nous permet de créer un nouveau projet a la base, sans utiliser un projet prédéfini. 
 
-![alt text](images/11.PNG)
+![alt text](images/17.PNG)
 
 Cliquez ensuite sur “Blank projet" pour accéder au tableau de bord où nous créons notre filtre de zéro. 
 
