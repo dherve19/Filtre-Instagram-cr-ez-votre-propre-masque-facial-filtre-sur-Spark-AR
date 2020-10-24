@@ -94,16 +94,16 @@ Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tou
 ## Création d’un filtre pour fan de sport (FanMask)
 1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Le « Facetracker » permet de trouver et suivre les mouvements d’un visage, pour le Créer allez dans l'onglet "Scène", faîtes un clic droit sur « **Focal Distance** », mettez votre curseur sur « **Add** » et dans la liste qui  vous sera proposé choisissez « **Face Tracker** », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous avez raté quelque chose, repartez de zéro. 
 
-![alt text](images/14.PNG)
+![alt text](images/14.png)
 
 2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clic droit sur l’objet « **Face Mesh** », mettez votre curseur sur « **Add** » et cliquez sur élément « **Face Mesh** » dans la liste.
 
-![alt text](images/15.PNG)
+![alt text](images/15.png)
 
 > Dans « Scene », vous avez maintenant un « Face Tracker » qui possède un « Face Mesh ».
 3. **Ajoutez un matériau dans les propriétés du « Face Mesh » pour le maillage de face.** Cliquez sur «** +** » à droite de « **Materials** » situé dans la zone 5. 
 
-![alt text](images/16.PNG)
+![alt text](images/16.png)
 
 
 Votre matériau sera répertorié dans la zone 3  en tant que « **matérial0** » que vous pouvez renommer pour vous aider à rester organisé pendant que vous construisez votre projet. Pour ce tutoriel nous allons renommer notre  matériau0 « **facemap** ». Pour cela, faites un clic droit sur «**matériau0** », Sélectionnez « **Rename** » et renommez le « **matériau0** » en « **facemap** ».
