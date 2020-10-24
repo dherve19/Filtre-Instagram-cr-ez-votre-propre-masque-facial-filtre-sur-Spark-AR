@@ -74,19 +74,38 @@ enfin cliquez sur « **finish** » pour terminer l'installation.
 > **Remarque :** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
 ### Présentation de l’interface de Spark AR Studio.
 L'écran d’accueil de Spark AR vous présente des exemples de projets de base déjà réalisés qui sont aussi des tutoriels. Sur la barre latérale à gauche de votre écran, une section intitulée « Learn » vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option « Create a Project » en haut à gauche qui nous permet de créer un nouveau projet a la base, sans utiliser un projet prédéfini. 
-Cliquez ensuite sur “Blank projet" pour accéder au tableau de bord où nous créons notre filtre de zéro. Ce tableau contient plusieurs touches que nous ne pourrons pas tous présenter explicitement ici. Disons de manière générale que l’interface de création de filtre est composée de 5 zones principales à savoir :
+
+![alt text](images/11.PNG)
+
+Cliquez ensuite sur “Blank projet" pour accéder au tableau de bord où nous créons notre filtre de zéro. 
+
+![alt text](images/12.PNG)
+
+Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tous présenter explicitement ici. Disons de manière générale que cette interface de création de filtre est composée de 5 zones principales à savoir :
 - La zone 1, située tout à gauche, comporte plusieurs boutons d’actions tels que la caméra (qui vous permettra de choisir des personnages prédéfinis pour avoir un aperçu de votre filtre ou alors activer votre webcam de l’ordinateur pour avoir un aperçu en direct), pause/play, rafraichir, recherche, tester le filtre sur votre appareil, exporter, la bibliothèque de Spark AR Studio, etc.
 - La zone 2 représente la « Scène » qui vous servira pour ajouter des fonctionnalités dans votre filtre, comme pour suivre les mouvements du visage, etc.
 - La zone 3 contient les « Assets ». Vous y retrouvez tout ce qui est objet 3D, matériel, texture.
 - La zone 4 représente votre appareil avec son écran. Vous donnant la possibilité d’avoir un aperçu en direct de votre filtre sur un modèle de personnage prédéfini, que vous pourrez modifier. La fenêtre d’aperçu en direct, avec ici, un modèle de personnage prédéfini, que vous pourrez modifier.
 - La zone 5 située tout à droite, montre les propriétés des objets que vous avez sélectionnés et que nous pourrons ajuster. 
+
+![alt text](images/13.PNG)
+
 > La prise en main terminée, nous allons commencer la création d’un filtre pour fan de sport (FanMask).
 ## Création d’un filtre pour fan de sport (FanMask)
 1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Le « Facetracker » permet de trouver et suivre les mouvements d’un visage, pour le Créer allez dans l'onglet "Scène", faîtes un clic droit sur « **Focal Distance** », mettez votre curseur sur « **Add** » et dans la liste qui  vous sera proposé choisissez « **Face Tracker** », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous avez raté quelque chose, repartez de zéro. 
+
+![alt text](images/14.PNG)
+
 2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et de poser un matériel. Faites un clic droit sur l’objet « **Face Mesh** », mettez votre curseur sur « **Add** » et cliquez sur élément « **Face Mesh** » dans la liste.
+
+![alt text](images/15.PNG)
+
 > Dans « Scene », vous avez maintenant un « Face Tracker » qui possède un « Face Mesh ».
-3. **Ajoutez un matériau dans les propriétés du « Face Mesh » pour le maillage de face.** Cliquez sur «** +** » à droite de « **Materials** » situé dans la zone 5. Votre matériau sera répertorié dans le panneau Actifs en tant que matérial0 que vous pouvez renommer pour vous aider à rester organisé pendant que vous construisez votre projet. Pour ce tutoriel nous allons renommer notre  matériau0 « **facemap** ». Pour cela, faites un clic droit sur « matériau0 », Sélectionnez « rename » et renommez le « **matériau0** » en « **facemap** »
-Vous verrez le matériau recouvrant le maillage de la face dans la fenêtre et le simulateur:
+3. **Ajoutez un matériau dans les propriétés du « Face Mesh » pour le maillage de face.** Cliquez sur «** +** » à droite de « **Materials** » situé dans la zone 5. 
+
+![alt text](images/16.PNG)
+
+Votre matériau sera répertorié dans la zone 3  en tant que « **matérial0** » que vous pouvez renommer pour vous aider à rester organisé pendant que vous construisez votre projet. Pour ce tutoriel nous allons renommer notre  matériau0 « **facemap** ». Pour cela, faites un clic droit sur «**matériau0** », Sélectionnez « **Rename** » et renommez le « **matériau0** » en « **facemap** ».
 ## Publier votre filtre fanMask sur Instagram
 Une fois produit votre filtre, **Spark AR Hub** vous aide à soumettre votre filtre AR pour approbation. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. Spark AR Hub donne également aux créateurs la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram. Lorsque vous êtes prêt à publier votre filtre AR, cliquez sur le bouton "importer" dans le coin inférieur gauche de l'application.
 Les filtres AR sont soumis à l'examen de Facebook. Le processus peut prendre quelques jours. Assurez-vous que votre filtre respecte les politiques et directives de Spark AR. Pour plus d'informations sur la création de filtres approuvés sans échec, lisez la soumission des effets nouvellement créés pour approbation.
