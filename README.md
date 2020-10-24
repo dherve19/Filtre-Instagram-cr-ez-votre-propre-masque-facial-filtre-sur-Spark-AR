@@ -61,11 +61,11 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 
 ![alt text](images/8.PNG)
 
-- Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur « **Install** » 
+- Une fois arrivé sur l’avant dernière page, il ne vous reste plus qu’à cliquer sur « **Install** » 
 
 ![alt text](images/9.PNG)
 
-ensuite sur « **finish** » pour terminer l'installation.
+enfin cliquez sur « **finish** » pour terminer l'installation.
 
 ![alt text](images/10.PNG)
 
