@@ -33,7 +33,7 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 #### Créer votre tout premier filtre AR Instagram signifiera apprendre de nouvelles idées et de nouvelles terminologies, Voici pour vous un guide étape par étape pour la prise en main de Spark AR Studio afin que vous puissiez commencer à créer votre propre filtre.
 
 1. **Télécharger le logiciel Spark AR Studio** en allant sur le site officiel à l’adresse suivante : https://sparkar.facebook.com/ar-studio/download/. Cliquez sur « **download** » (télécharger en français) en haut et à droite de la page qui s’affichera à votre écran, ensuite cliquez a nouveau sur le bouton rouge « **download** » à gauche de votre ecran. 
-> vous pouvez aussi aller sur google, recherchez Spark AR studio et choisir le premier résultat pour accéder au site de telechargement.
+> Vous pouvez aussi aller sur google, recherchez Spark AR studio et choisir le premier résultat pour accéder au site de telechargement.
 
 ![](images/2.PNG)
 
@@ -132,15 +132,23 @@ vous obtiendrez ce résultat dans la zone 4.
 ## Publier votre filtre fanMask sur Instagram
 8. **Enregistrez votre projet dans un dossier.** Maintenant que vous avez un filtre qui fonctionne, enregistrez le projet dans un dossier local en cliquant sur « File » (à gauche et en haut de votre écran) et en sélectionnant l'option « Save AS». Une fenêtre s'ouvrira,Choisissez un emplacement de sauvegarde que vous pourrez facilement trouver plus tard et renommez  votre projet en **FanMask**.
 
-9. **Télécharger votre filtre sur Sparkhub.** cliquez à nouveau sur « File »  et selectionnez l'option « Upload and Export ». Une fenêtre s'ouvrira pour indiquer l'espace que votre filtre utilisera sur différents types d'appareils. Si tout est vert et coché, cliquez sur le bouton "Upload". Une fois le téléchargement  terminé, Vous serez automatiquement redirigé vers  [Spark AR Hub]( https://www.facebook.com/sparkarhub/).
-Ouvrez un navigateur web et assurez-vous que vous êtes connecté au compte Facebook / Instagram où vous voulez publier l'effet.
-Rendez-vous sur : https://www.facebook.com/sparkarhub/
+9. **Télécharger votre filtre sur Sparkhub.** cliquez à nouveau sur « File »  et selectionnez l'option « Upload and Export ». Une fenêtre s'ouvrira pour indiquer l'espace que votre filtre utilisera sur différents types d'appareils. Si tout est vert et coché, cliquez sur le bouton "Upload". Une fois le téléchargement  terminé, Vous serez automatiquement redirigé vers  [Spark AR Hub]( https://www.facebook.com/sparkarhub/) qui vous aide à soumettre votre filtre AR pour approbation et  vous donne également la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram.
+> Assurez-vous que vous êtes connecté au compte Facebook / Instagram où vous voulez publier l'effet.
+Sur cette page de Spark AR Hub, renseignez les informations demandées : Nom (FanMaskCmr), Plateforme (Instagram), Propietes (votre nom de compte Instagram), Catégories
+(Évènements), dans la section "Icône d'effet", faites glisser et déposer une image que vous souhaitez utiliser pour représenter votre filtre Instagram. Choisissez "Importer and continuer". Vérifiez les informations qui s'affichent et cliquez sur "Continuer".
+Sur la page suivante, vous aurez deux options : "Prévisualisation dans l'application" et "Obtenir un lien de prévisualisation".
+"Aperçu dans l'application" vous permettra de tester votre filtre pendant 60 minutes à partir du compte auquel vous êtes actuellement connecté. "Obtenir un lien de prévisualisation" vous donnera un lien que vous pourrez envoyer à vos amis, votre famille ou vos collègues pour qu'ils puissent tester votre filtre instagram ; il ne peut être utilisé que 200 fois en une seule journée, mais cela devrait suffire.
+
+Lorsque vous serez prêt à publier votre nouveau filtre Instagram pour que le monde entier puisse le voir :Allez chercher votre téléphone, cliquez sur le lien de prévisualisation, et prenez une courte vidéo de votre effet en action avec Instagram. Cette vidéo de démonstration montrera aux gens ce que fait votre filtre sans avoir à le télécharger. Une fois que vous êtes satisfait de la vidéo, assurez-vous que le fichier est accessible sur votre ordinateur.
+
 Vous serez accueillis par un écran d'introduction. Continuez, vous pouvez cocher une case pour sauter cette page la prochaine fois que vous viendrez sur cette page. (30)
 
 Une fois votre filtre terminé, vous devez l'exporter. Dans la zone 1, cliquez sur le bouton «Upload». Une fenêtre s'ouvre, sélectionnez à nouveau "Télécharger". Vous êtes automatiquement redirigé vers Spark AR Hub. C'est ici que vous gérez vos filtres de réalité augmentée. Il vous suffit de renseigner les informations demandées.
 
 Une fois produit votre filtre, **Spark AR Hub** vous aide à soumettre votre filtre AR pour approbation. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. Spark AR Hub donne également aux créateurs la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram. Lorsque vous êtes prêt à publier votre filtre AR, cliquez sur le bouton "importer" dans le coin inférieur gauche de l'application.
 Les filtres AR sont soumis à l'examen de Facebook. Le processus peut prendre quelques jours. Assurez-vous que votre filtre respecte les politiques et directives de Spark AR. Pour plus d'informations sur la création de filtres approuvés sans échec, lisez la soumission des effets nouvellement créés pour approbation.
+
+https://www.instagram.com/ar/2818115521758316/?ch=ZmRhZGJlMGYyZWI2NDRlOTc0MzFiZjA2MDkwMWEwMjc%3D
 
 
 Toutes nos félicitations! Vous avez créé votre premier effet Instagram Stories!
