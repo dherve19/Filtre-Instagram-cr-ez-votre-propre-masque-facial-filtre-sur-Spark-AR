@@ -116,8 +116,16 @@ Votre matériau sera répertorié dans la zone 3  en tant que « **matérial0** 
 4.**Téléchargez votre actif** qui peut être le drapeau d'un pays ou d'une équipe ou d'un club de football, basket-ball etc. que vous enregistrerez sur votre bureau au nom de "**flag**". Pour ce tutoriel, nous utiliserons une image du drapeau du Cameroun que vous pouvez trouver à l'adresse suivante [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM )
 
 3. **Ajoutez  votre actif « flag » à vos assets (actifs) .** ** Ajouter Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « Import From Computer ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « flag »  puis sur "ouvrir". Un moyen simple d'ajouter votre actif à vos assets consiste à faire glisser et déposer votre  actif image «flag» dans les assets (actifs).
+
 Pour éviter de perdre la qualité de votre image, cochez la case « No Compression  » dans la zone 5.
-4. **Ajoutez  a notre matériau « facemap»
+
+4. **Changez la texture de votre matériau « facemap».** faites un clic sur le  matériau « facemap », cliquez sur la propriété « **Texture**» dans la zone 5 et choissez l'actif « flag » dans la liste proposée. ajustez l'opacité (Opacity) et la luminosité (Brightness) à votre guise.
+
+vous obtiendrez ce résultat dans la zone 4.
+
+5.**Modifiez le « Shader Type »  de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « Shader Type »  et selectionnez « Face Paint » dans la liste proposée. .
+## Testez votre filtre sur votre smartphone
+
 ## Publier votre filtre fanMask sur Instagram
 Une fois produit votre filtre, **Spark AR Hub** vous aide à soumettre votre filtre AR pour approbation. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. Spark AR Hub donne également aux créateurs la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram. Lorsque vous êtes prêt à publier votre filtre AR, cliquez sur le bouton "importer" dans le coin inférieur gauche de l'application.
 Les filtres AR sont soumis à l'examen de Facebook. Le processus peut prendre quelques jours. Assurez-vous que votre filtre respecte les politiques et directives de Spark AR. Pour plus d'informations sur la création de filtres approuvés sans échec, lisez la soumission des effets nouvellement créés pour approbation.
