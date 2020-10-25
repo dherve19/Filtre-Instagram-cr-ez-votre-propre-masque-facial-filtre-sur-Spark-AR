@@ -37,10 +37,10 @@ La **réalité augmentée (RA)** est une technologie qui permet la superposition
 ![](images/2.PNG), 
 
 Ensuite cliquez à nouveau sur le bouton rouge « **download** » à gauche de votre écran. 
-> Vous pouvez aussi aller sur google, recherchez Spark AR studio et choisir le premier résultat pour accéder au site de téléchargement.
 
 ![](images/3.PNG)
 
+> Vous pouvez aussi aller sur google, recherchez Spark AR studio et choisir le premier résultat pour accéder au site de téléchargement.
 
 2. **Installer Spark AR Player** qui est disponible sur le Play Store de Google pour les appareils Android et sur l'App Store d'Apple pour les iPhones. Vous trouverez également cette application au milieu de la page https://sparkar.facebook.com/ar-studio/download/. Depuis votre smartphone, vous devrez cliquer sur l’un des deux boutons de téléchargement (un pour iOS et un autre pour Android) situé sous « **Get the Spark AR Player** », car depuis votre ordinateur, il ne se passera rien.
 
@@ -104,9 +104,10 @@ Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tou
 > La prise en main terminée, nous allons commencer la création d’un filtre très très simple pour fan de sport (FanMask).
 ## Création d’un filtre pour fan de sport (FanMask)
 1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Le « Facetracker » permet de trouver et suivre les mouvements d’un visage, pour le Créer allez dans l'onglet "Scene", faîtes un clic droit sur « **Focal Distance** », mettez votre curseur sur « **Add** » et dans la liste qui  vous sera proposé choisissez « **Face Tracker** », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous avez raté quelque chose, repartez de zéro. 
-> vous pouvez accéder à l'icône de la caméra dans la zone 1 pour changer le personnage ou utiliser la caméra de votre ordinateur en cliquant sur le bouton « PC Camera ».
 
 ![alt text](images/14.png) 
+
+> vous pouvez accéder à l'icône de la caméra dans la zone 1 pour changer le personnage ou utiliser la caméra de votre ordinateur en cliquant sur le bouton « PC Camera ».
 
 2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et à poser un matérieau. Faites un clic droit sur l’objet « **Face Mesh** », mettez votre curseur sur « **Add** » et cliquez sur élément « **Face Mesh** » dans la liste.
 
@@ -140,7 +141,7 @@ Pour éviter de perdre la qualité de votre image, cochez la case « No Compress
 
 ![alt text](images/23.PNG)
 
-Ajustez l'opacité (Opacity) et la luminosité (Brightness) à votre guise ou sur la double face (Double-sided) pour afficher les deux côtés d'une face normale.
+Ajustez l'opacité (Opacity) et la luminosité (Brightness) à votre guise ou la double face (Double-sided) pour afficher les deux côtés d'une face normale.
 
 ![alt text](images/25.PNG)
 
@@ -152,6 +153,7 @@ Vous obtiendrez ce résultat dans la zone 4.
 
 ![alt text](images/24.PNG)
 
+> **Remarque:** Généralement lorsqu on utilise un filtre sur les reseau sociaux on a une peau lisse. Pour y arriver, rajoutez un «Face Mesh » selon la méthode vue au point 3. Mettez un materiau à votre nouveau «Face Mesh», Modifiez le «Shader Type» de votre materiau en « Retouching» et enfin lissez la peau visage en ajustant le «Skin Smoothing » jusqu à 100.
 
 6. **Testez votre filtre votre filtre pour voir comment il se manifeste sur d'autres types de visage en temps réel.** Sur votre smartphone, installez l'application Spark AR Player puis connectez votre smartphone à votre ordinateur à l'aide d'un câble USB. Dans le coin inferieur gauche de la zone 1, cliquez sur l’icône smartphone ensuite sur « Send » dans nouvelle fenêtre. Votre filtre se lancera automatiquement sur votre smartphone. D'autre part, si vous avez une webcam, cliquez sur l'icône de la caméra dans la zone 1. Vous verrez un bouton « PC Camera » au-dessus des visages pour interactif en direct sur votre ordinateur, ou Changez  de personnage pour avoir un autre aperçu de votre filtre sur diffèrent type de visage et faites les ajustements supplémentaires que vous souhaitez.
 
