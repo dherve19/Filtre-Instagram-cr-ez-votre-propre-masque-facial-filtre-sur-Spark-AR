@@ -1,4 +1,4 @@
-# Filtre Instagram : créez votre propre filtre AR (FanMask) sur Spark AR
+# Filtre Instagram : Apprenez les bases de Spark AR en créant votre propre filtre AR (FanMask)
 > Tadammm ! L’heure est venue d’apprendre à créer facilement votre premier filtre de réalité augmentée et à le partager sur Instagram avec Spark AR le meilleur logiciel qui permet aux débutants de créer des filtres impressionnants.
 
 ![alt text](images/1.jpg)
