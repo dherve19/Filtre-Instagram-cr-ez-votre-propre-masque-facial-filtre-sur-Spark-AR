@@ -185,7 +185,7 @@ Prenez une courte (2 minutes maximum) vidéo de votre filtre en action avec Inst
 
 Si vous souhaiter tester notre filtre cliquez ici [FanMaskCmr](https://www.instagram.com/ar/2818115521758316/?ch=ZmRhZGJlMGYyZWI2NDRlOTc0MzFiZjA2MDkwMWEwMjc%3D) .
 
-![alt text](images/35.PNG)
+![alt text](images/35.jpg)
 
 ## Conclusion
 Toutes nos félicitations, Vous avez créé votre premier filtre Instagram ! Nous espérons que ce tutoriel vous a donné les bases de la création de filtres de réalité augmentée et de leur publication sur Instagram.
