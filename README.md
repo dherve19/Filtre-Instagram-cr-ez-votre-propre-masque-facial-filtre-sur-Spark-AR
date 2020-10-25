@@ -115,18 +115,30 @@ Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tou
 Votre matériau sera répertorié dans la zone 3  en tant que « **matérial0** » que vous pouvez renommer pour vous aider à rester organisé pendant que vous construisez votre projet. Pour ce tutoriel nous allons renommer notre  matériau0 « **facemap** ». Pour cela, faites un clic droit sur «**matériau0** », Sélectionnez « **Rename** » et renommez le « **matériau0** » en « **facemap** ».
 4.**Téléchargez votre actif** qui peut être le drapeau d'un pays ou d'une équipe ou d'un club de football, basket-ball etc. que vous enregistrerez sur votre bureau au nom de "**flag**". Pour ce tutoriel, nous utiliserons une image du drapeau du Cameroun que vous pouvez trouver à l'adresse suivante [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM )
 
-3. **Ajoutez  votre actif « flag » à vos assets (actifs) .** ** Ajouter Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « Import From Computer ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « flag »  puis sur "ouvrir". Un moyen simple d'ajouter votre actif à vos assets consiste à faire glisser et déposer votre  actif image «flag» dans les assets (actifs).
+3. **Importez  votre actif « flag » à vos assets (actifs) .** ** Ajouter Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « Import From Computer ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « flag »  puis sur "ouvrir". Un moyen simple d'importer votre actif à vos assets consiste à faire glisser et déposer votre  actif image «flag» dans les assets (actifs).
 
 Pour éviter de perdre la qualité de votre image, cochez la case « No Compression  » dans la zone 5.
 
-4. **Changez la texture de votre matériau « facemap».** faites un clic sur le  matériau « facemap », cliquez sur la propriété « **Texture**» dans la zone 5 et choissez l'actif « flag » dans la liste proposée. ajustez l'opacité (Opacity) et la luminosité (Brightness) à votre guise.
+4. **Ajoutez une texture de votre matériau « facemap».** faites un clic sur le  matériau « facemap », cliquez sur la propriété « **Texture**» dans la zone 5 et choissez l'actif « flag » dans la liste proposée. ajustez l'opacité (Opacity) et la luminosité (Brightness) à votre guise ou sur la double face (Double-sided) pour afficher les deux côtés d'une face normale.
+
+5.**Modifiez le « Shader Type »  de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « Shader Type »  et selectionnez « Face Paint » dans la liste proposée. 
 
 vous obtiendrez ce résultat dans la zone 4.
 
-5.**Modifiez le « Shader Type »  de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « Shader Type »  et selectionnez « Face Paint » dans la liste proposée. .
-## Testez votre filtre sur votre smartphone
+6. **Testez votre filtre sur votre smartphone.** Testons votre filtre pour voir comment il se manifeste sur d'autres types de visage en temps réel. Si vous avez une webcam, cliquez sur  l'icône de la caméra  dans la zone 1. Vous verrez un bouton « PC Camera » au-dessus des visages, choisissez-le pour un aperçu interactif en direct et faites les ajustements supplémentaires que vous souhaitez.
+
+7. **Enregistrez votre projet dans un dossier.**   Maintenant que vous avez un filtre qui fonctionne, sauvergadez le projet dans un dossier local en  cliquant sur « File » à gauche et en haut de votre ecran et en selectionnant l'option « Save as ». Choissessez ou vous voulez sauvergarder votre filtre et renoommez le en **FanMask**.
 
 ## Publier votre filtre fanMask sur Instagram
+8. **Enregistrez votre projet dans un dossier.** Maintenant que vous avez un filtre qui fonctionne, enregistrez le projet dans un dossier local en cliquant sur « File » (à gauche et en haut de votre écran) et en sélectionnant l'option « Save AS». Une fenêtre s'ouvrira,Choisissez un emplacement de sauvegarde que vous pourrez facilement trouver plus tard et renommez  votre projet en **FanMask**.
+
+9. **Télécharger votre filtre sur Sparkhub.** cliquez à nouveau sur « File »  et selectionnez l'option « Upload and Export ». Une fenêtre s'ouvrira pour indiquer l'espace que votre filtre utilisera sur différents types d'appareils. Si tout est vert et coché, cliquez sur le bouton "Upload". Une fois le téléchargement  terminé, Vous serez automatiquement redirigé vers  [Spark AR Hub]( https://www.facebook.com/sparkarhub/).
+Ouvrez un navigateur web et assurez-vous que vous êtes connecté au compte Facebook / Instagram où vous voulez publier l'effet.
+Rendez-vous sur : https://www.facebook.com/sparkarhub/
+Vous serez accueillis par un écran d'introduction. Continuez, vous pouvez cocher une case pour sauter cette page la prochaine fois que vous viendrez sur cette page. (30)
+
+Une fois votre filtre terminé, vous devez l'exporter. Dans la zone 1, cliquez sur le bouton «Upload». Une fenêtre s'ouvre, sélectionnez à nouveau "Télécharger". Vous êtes automatiquement redirigé vers Spark AR Hub. C'est ici que vous gérez vos filtres de réalité augmentée. Il vous suffit de renseigner les informations demandées.
+
 Une fois produit votre filtre, **Spark AR Hub** vous aide à soumettre votre filtre AR pour approbation. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. Spark AR Hub donne également aux créateurs la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram. Lorsque vous êtes prêt à publier votre filtre AR, cliquez sur le bouton "importer" dans le coin inférieur gauche de l'application.
 Les filtres AR sont soumis à l'examen de Facebook. Le processus peut prendre quelques jours. Assurez-vous que votre filtre respecte les politiques et directives de Spark AR. Pour plus d'informations sur la création de filtres approuvés sans échec, lisez la soumission des effets nouvellement créés pour approbation.
 
@@ -138,7 +150,7 @@ Mais avant de pouvoir être partagé sur Instagram, il doit passer par un proces
 Tout d'abord, exportez votre effet en appuyant sur le bouton Exporter en bas à droite du tableau de bord Spark AR
 
 ## Conclusion
-Très bien ! ’espère que ce tutorial vous aura aider et que maintenant vous savez comment créer des filtres en réalité augmentée pour Instagram.
+Toutes nos félicitations! Nous espérons que ce tutoriel vous a donné les bases de la création de filtres de réalité augmentée et de leur publication sur Instagram.
 ## What’s next?
 Si vous souhaitez continuer à travailler sur ce projet, voici quelques idées :
 - Ajoutez plus de drapeaux d'autres pays et clubs sportifs dans ce projet ;
@@ -146,6 +158,7 @@ Si vous souhaitez continuer à travailler sur ce projet, voici quelques idées :
 ## Pour en savoir plus sur Spark AR.
  Voici quelques recommandations pour poursuivre votre apprentissage et de développer vos compétences sur Spark AR :
 - https://sparkar.facebook.com/ar-studio/learn/tutorials/
+- https://sommersadvisors.com/comment-utiliser-spark-ar-studio-creer-filtres-en-realite-augmentee-instagram-facebook/
 
 ## À propos de l’auteur
 **Sage Destin:** Salut cher lecteur et lectrice! Je suis étudiant en biochimie à l'Université de Buea, Cameroun, passionné de technologie, débutant dans la création de filtrer Spark AR et le développement front-end.
