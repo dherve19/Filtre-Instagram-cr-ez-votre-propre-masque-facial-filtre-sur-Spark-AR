@@ -107,7 +107,7 @@ Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tou
 
 ![alt text](images/14.png) 
 
-> Vous pouvez accéder à l'icône de la caméra dans la zone 1 pour changer le personnage ou utiliser la caméra de votre ordinateur en cliquant sur le bouton « PC Camera ».
+> Vous pouvez accéder à l'icône de la caméra dans la zone 1 pour changer le personnage ou utiliser la caméra de votre ordinateur en cliquant sur le bouton « **PC Camera** ».
 
 2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et à poser un matérieau. Faites un clic droit sur l’objet « **Face Mesh** », mettez votre curseur sur « **Add** » et cliquez sur élément « **Face Mesh** » dans la liste.
 
@@ -126,7 +126,8 @@ Vous obtiendrez ce résultat dans la zone 4
 
 ![alt text](images/20.PNG)
 
-4.**Téléchargez votre actif** qui peut être dans le cadre de ce tutoriel le drapeau d'un pays, d'une équipe ou d'un club de football, basket-ball etc. que vous enregistrerez sur votre bureau au nom de "**Flag**". Pour ce tutoriel, nous utiliserons une image du drapeau du Cameroun que vous pouvez trouver à l'adresse suivante [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
+4. **Téléchargez votre actif** qui peut être dans le cadre de ce tutoriel le drapeau d'un pays, d'une équipe ou d'un club de football, basket-ball etc. que vous enregistrerez sur votre bureau au nom de "**Flag**". Pour ce tutoriel, nous utiliserons une image du drapeau du Cameroun que vous pouvez trouver à l'adresse suivante [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
+
 
 5. **Importez votre actif « flag » à vos assets (actifs).** Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « **Import From Computer** ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « **Flag** » puis sur "ouvrir". Un moyen simple d'importer votre actif à vos assets consiste à faire glisser et déposer votre actif image « **Flag** » dans les assets (actifs).  
 
@@ -144,7 +145,7 @@ Ajustez l'opacité (Opacity), la luminosité (Brightness) à votre guise et coch
 
 ![alt text](images/25.PNG)
 
-7.**Modifiez le « Shader Type » de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « **Shader Type** »  et selectionnez « **Face Paint** » dans la liste proposée. 
+7. **Modifiez le « Shader Type » de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « **Shader Type** »  et selectionnez « **Face Paint** » dans la liste proposée. 
 
 ![alt text](images/34.PNG)
 
@@ -173,7 +174,7 @@ Une fenêtre s'ouvrira pour indiquer l'espace que votre filtre utilisera sur dif
 
 ![alt text](images/28.PNG)
 
-11.**Renseignez les informations demandées** Une fois le téléchargement terminé, Vous serez automatiquement redirigé vers [Spark AR Hub]( https://www.facebook.com/sparkarhub/) pour soumettre votre filtre AR pour approbation. Cette plateforme donne également la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram.
+11. **Renseignez les informations demandées** Une fois le téléchargement terminé, Vous serez automatiquement redirigé vers [Spark AR Hub]( https://www.facebook.com/sparkarhub/) pour soumettre votre filtre AR pour approbation. Cette plateforme donne également la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram.
 > Assurez-vous que vous êtes connecté au compte Facebook / Instagram où vous voulez publier l'effet.
 
 ![alt text](images/31.PNG)
@@ -184,7 +185,7 @@ Sur cette page de Spark AR Hub, renseignez les informations demandées : Nom (Fa
 
 Prenez une courte (2 minutes maximum) vidéo de votre filtre en action avec Instagram ou avec votre smartphone qui montrera aux gens ce que fait votre filtre sans avoir à le télécharger. Une fois que vous êtes satisfait de la vidéo, importez là au niveau de la zone « **video Demo** » puis cliquez « **Enregistrer** » dans le coin supérieur droit de la page.
 
-12. **Vérifiez les informations et soumettez votre filtre.**  Si vous êtes prêt à publier votre filtre une fois que vous avez tous soumi et  verifie les informations  demandées, cliquez sur le bouton " Envoyer" dans le coin supérieur droit de la page pour soumettre votre filtre à l'examen de Facebook. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. 
+12. **Vérifiez les informations et soumettez votre filtre.** »  Si vous êtes prêt à publier votre filtre une fois que vous avez tous soumi et  verifie les informations  demandées, cliquez sur le bouton « **Envoyer** dans le coin supérieur droit de la page pour soumettre votre filtre à l'examen de Facebook. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. 
 
 Si vous souhaiter tester notre filtre cliquez ici [FanMaskCmr](https://www.instagram.com/ar/2818115521758316/?ch=ZmRhZGJlMGYyZWI2NDRlOTc0MzFiZjA2MDkwMWEwMjc%3D) .
 
@@ -197,11 +198,12 @@ Si vous souhaitez continuer à travailler sur ce projet, voici quelques idées :
 - Ajoutez plus de drapeaux d'autres pays et clubs sportifs dans ce projet ;
 - Créer de nouveaux effets en utilisant d'autres fonctionnalités de Spark AR comme la Création d'un effet d'éclat avec des passes de rendu.
 ## Pour en savoir plus sur Spark AR.
- Voici quelques recommandations pour poursuivre votre apprentissage et de développer vos compétences sur Spark AR :
+Voici quelques liens où vous pouvez poursuivre votre apprentissage et développer vos compétences sur Spark AR:
 - https://sparkar.facebook.com/ar-studio/learn/tutorials/
 - https://sommersadvisors.com/comment-utiliser-spark-ar-studio-creer-filtres-en-realite-augmentee-instagram-facebook/
 - https://www.youtube.com/watch?v=ED9STH52g0I
 - https://www.youtube.com/watch?v=pWj_oiFfNZM
 
 ## À propos de l’auteur
-**Sage Destin:** Salut cher lecteur et lectrice! Je suis étudiant en biochimie à l'Université de Buea, Cameroun, passionné de technologie, débutant dans la création de filtrer Spark AR et le développement front-end.
+**Sage Destin:** Salut cher lecteur et lectrice! Je suis étudiant en biochimie à l'Université de Buea, Cameroun, passionné de technologie, débutant sur Spark AR et
+ Développeur front-end junior.
