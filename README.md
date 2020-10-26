@@ -84,7 +84,7 @@ Enfin cliquez sur « **finish** » pour terminer l'installation.
 > **Remarque :** Si vous rencontrez malgré tout quelques difficultés sur l’installation ou le lancement de Spark AR, n’hésitez pas à contacter un ami qui s’y connaît un minimum dans les nouvelles technologies, pas besoin de contacter un expert en l’informatique.
 
 ### Présentation de l’interface de Spark AR Studio.
-L'écran d’accueil de Spark AR vous présente des exemples de projets de base déjà réalisés qui sont aussi des tutoriels. Sur la barre latérale à gauche de votre écran, une section intitulée « Learn » vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option en haut à gauche de l’ecran « Create a Project »   qui nous permet de créer à un nouveau projet  la base, sans utiliser un projet prédéfini. 
+L'écran d’accueil de Spark AR vous présente des exemples de projets de base déjà réalisés qui sont aussi des tutoriels. Sur la barre latérale gauche de votre écran, une section intitulée « Learn » vous redirigera vers des vidéos d’apprentissage. Pour ce tutoriel, Nous prendrons l’option en haut à gauche de l’ecran « Create a Project »   qui nous permet de créer à un nouveau projet  la base, sans utiliser un projet prédéfini. 
 
 ![alt text](images/17.PNG)
 
@@ -101,25 +101,24 @@ Cette nouvelle interface contient plusieurs touches que nous ne pourrons pas tou
 
 ![alt text](images/13.png)
 
-> La prise en main terminée, nous allons commencer la création d’un filtre très très simple pour fan de sport (FanMask).
+> La prise en main terminée, nous allons commencer la création d’un filtre  très simple pour fan de sport (FanMask).
 ## Création d’un filtre pour fan de sport (FanMask)
 1. **Créez la fonctionnalité pour traquer le visage « Facetracker ».**  Le « Facetracker » permet de trouver et suivre les mouvements d’un visage, pour le Créer allez dans l'onglet "Scene", faîtes un clic droit sur « **Focal Distance** », mettez votre curseur sur « **Add** » et dans la liste qui  vous sera proposé choisissez « **Face Tracker** », cela devrait créer une nouvelle entrée dans votre scène comme ci-dessous. L’élément « faceTracker » doit être au même niveau que les deux éléments « ambientLight » et « directionalLight ». Si ce n’est pas le cas, vous avez raté quelque chose, repartez de zéro. 
 
 ![alt text](images/14.png) 
 
-> vous pouvez accéder à l'icône de la caméra dans la zone 1 pour changer le personnage ou utiliser la caméra de votre ordinateur en cliquant sur le bouton « PC Camera ».
+> Vous pouvez accéder à l'icône de la caméra dans la zone 1 pour changer le personnage ou utiliser la caméra de votre ordinateur en cliquant sur le bouton « PC Camera ».
 
 2. **Ajoutez un « Face Mesh »,** destiné à répondre aux expressions du visage et à poser un matérieau. Faites un clic droit sur l’objet « **Face Mesh** », mettez votre curseur sur « **Add** » et cliquez sur élément « **Face Mesh** » dans la liste.
 
 ![alt text](images/15.png)
 
 > Dans « Scene », vous avez maintenant un « Face Tracker » qui possède un « Face Mesh ».
-3. **Ajoutez un matériau dans les propriétés du « Face Mesh » pour le maillage de face.** Cliquez sur "Face Mesh" afin d'afficher ces propriétés dans la zone 5. Cliquez sur «** +** » à droite de « **Materials** » situé dans la zone 5. 
+3. **Ajoutez un matériau dans les propriétés du « Face Mesh » pour le maillage de face.** Cliquez sur "Face Mesh" afin d'afficher ces propriétés dans la zone 5. Cliquez sur « ** +** » à droite de « **Materials** » situé dans la zone 5. 
 
 ![alt text](images/16.png)
 
-
-Votre matériau sera répertorié dans la zone 3 en tant que « **matérial0** » que vous pouvez renommer pour vous aider à rester organisé pendant que vous construisez votre projet. Pour ce tutoriel nous allons renommer notre matériau0 en « **facemap** ». Pour cela, faites un clic droit sur «**matériau0** », Sélectionnez « **Rename** » et renommez le « **matériau0** » en « **facemap** ».
+Votre matériau sera répertorié dans la zone 3 en tant que « **Matérial0** » que vous pouvez renommer pour vous aider à rester organisé pendant que vous construisez votre projet. Pour ce tutoriel nous allons renommer notre matériau0 en « **Facemap** ». Pour cela, faites un clic droit sur «**Matériau0** », Sélectionnez « **Rename** » et renommez le « **Matériau0** » en « **Facemap** ».
 
 ![alt text](images/19.PNG)
 
@@ -127,9 +126,9 @@ Vous obtiendrez ce résultat dans la zone 4
 
 ![alt text](images/20.PNG)
 
-4.**Téléchargez votre actif** qui peut être dans le cadre de ce tutoriel le drapeau d'un pays, d'une équipe ou d'un club de football, basket-ball etc. que vous enregistrerez sur votre bureau au nom de "**flag**". Pour ce tutoriel, nous utiliserons une image du drapeau du Cameroun que vous pouvez trouver à l'adresse suivante [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
+4.**Téléchargez votre actif** qui peut être dans le cadre de ce tutoriel le drapeau d'un pays, d'une équipe ou d'un club de football, basket-ball etc. que vous enregistrerez sur votre bureau au nom de "**Flag**". Pour ce tutoriel, nous utiliserons une image du drapeau du Cameroun que vous pouvez trouver à l'adresse suivante [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
 
-3. **Importez votre actif « flag » à vos assets (actifs).** ** Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « Import From Computer ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « flag » puis sur "ouvrir". Un moyen simple d'importer votre actif à vos assets consiste à faire glisser et déposer votre actif image « flag » dans les assets (actifs).  
+5. **Importez votre actif « flag » à vos assets (actifs).** ** Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « Import From Computer ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « flag » puis sur "ouvrir". Un moyen simple d'importer votre actif à vos assets consiste à faire glisser et déposer votre actif image « flag » dans les assets (actifs).  
 
 ![alt text](images/21.PNG)
 
@@ -137,7 +136,7 @@ Pour éviter de perdre la qualité de votre image, cochez la case « No Compress
 
 ![alt text](images/22.PNG)
 
-4. **Ajoutez une texture sur votre matériau « facemap».** faites un clic sur le  matériau « facemap », cliquez sur la propriété « **Texture**» dans la zone 5 et choisissez l'actif « flag » dans la liste proposée. 
+6. **Ajoutez une texture sur votre matériau « facemap».** faites un clic sur le  matériau « facemap », cliquez sur la propriété « **Texture**» dans la zone 5 et choisissez l'actif « flag » dans la liste proposée. 
 
 ![alt text](images/23.PNG)
 
@@ -145,7 +144,7 @@ Ajustez l'opacité (Opacity) et la luminosité (Brightness) à votre guise ou la
 
 ![alt text](images/25.PNG)
 
-5.**Modifiez le « Shader Type » de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « Shader Type »  et selectionnez « Face Paint » dans la liste proposée. 
+7.**Modifiez le « Shader Type » de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « Shader Type »  et selectionnez « Face Paint » dans la liste proposée. 
 
 ![alt text](images/34.PNG)
 
@@ -155,16 +154,16 @@ Vous obtiendrez ce résultat dans la zone 4.
 
 > **Remarque:** Généralement lorsqu on utilise un filtre sur les reseau sociaux on a une peau lisse. Pour y arriver, rajoutez un «Face Mesh » selon la méthode vue au point 3. Mettez un materiau à votre nouveau «Face Mesh», Modifiez le «Shader Type» de votre materiau en « Retouching» et enfin lissez la peau visage en ajustant le «Skin Smoothing » jusqu à 100.
 
-6. **Testez votre filtre votre filtre pour voir comment il se manifeste sur d'autres types de visage en temps réel.** Sur votre smartphone, installez l'application Spark AR Player puis connectez votre smartphone à votre ordinateur à l'aide d'un câble USB. Dans le coin inferieur gauche de la zone 1, cliquez sur l’icône smartphone ensuite sur « Send » dans nouvelle fenêtre. Votre filtre se lancera automatiquement sur votre smartphone. D'autre part, si vous avez une webcam, cliquez sur l'icône de la caméra dans la zone 1. Vous verrez un bouton « PC Camera » au-dessus des visages pour interactif en direct sur votre ordinateur, ou Changez  de personnage pour avoir un autre aperçu de votre filtre sur diffèrent type de visage et faites les ajustements supplémentaires que vous souhaitez.
+8. **Testez votre filtre votre filtre pour voir comment il se manifeste sur d'autres types de visage en temps réel.** Sur votre smartphone, installez l'application Spark AR Player puis connectez votre smartphone à votre ordinateur à l'aide d'un câble USB. Dans le coin inferieur gauche de la zone 1, cliquez sur l’icône smartphone ensuite sur « Send » dans nouvelle fenêtre. Votre filtre se lancera automatiquement sur votre smartphone. D'autre part, si vous avez une webcam, cliquez sur l'icône de la caméra dans la zone 1. Vous verrez un bouton « PC Camera » au-dessus des visages pour interactif en direct sur votre ordinateur, ou Changez  de personnage pour avoir un autre aperçu de votre filtre sur diffèrent type de visage et faites les ajustements supplémentaires que vous souhaitez.
 
 ![alt text](images/27.PNG) 
 
 ## Publier votre filtre fanMask sur Instagram
-7. **Enregistrez votre projet dans un dossier.** Maintenant que vous avez un filtre qui fonctionne, enregistrez le projet dans un dossier local en cliquant sur « File » (à gauche et en haut de votre écran) et en sélectionnant l'option « Save AS ». Une fenêtre s'ouvrira, Choisissez un emplacement de sauvegarde que vous pourrez facilement trouver plus tard et renommez votre projet en **FanMask** avant la sauvergarde. 
+9. **Enregistrez votre projet dans un dossier.** Maintenant que vous avez un filtre qui fonctionne, enregistrez le projet dans un dossier local en cliquant sur « File » (à gauche et en haut de votre écran) et en sélectionnant l'option « Save AS ». Une fenêtre s'ouvrira, Choisissez un emplacement de sauvegarde que vous pourrez facilement trouver plus tard et renommez votre projet en **FanMask** avant la sauvergarde. 
 
 ![alt text](images/26.PNG)
 
-8. **Télécharger votre filtre sur Sparkhub.** cliquez à nouveau sur « File »  et sélectionnez l'option « Upload and Export ».
+10. **Télécharger votre filtre sur Sparkhub.** cliquez à nouveau sur « File »  et sélectionnez l'option « Upload and Export ».
 
 ![alt text](images/30.PNG)
 
@@ -172,7 +171,7 @@ Une fenêtre s'ouvrira pour indiquer l'espace que votre filtre utilisera sur dif
 
 ![alt text](images/28.PNG)
 
-9.**Renseignez les informations demandées** Une fois le téléchargement terminé, Vous serez automatiquement redirigé vers [Spark AR Hub]( https://www.facebook.com/sparkarhub/) pour soumettre votre filtre AR pour approbation. Cette plateforme donne également la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram.
+11.**Renseignez les informations demandées** Une fois le téléchargement terminé, Vous serez automatiquement redirigé vers [Spark AR Hub]( https://www.facebook.com/sparkarhub/) pour soumettre votre filtre AR pour approbation. Cette plateforme donne également la possibilité de gérer et de comprendre les performances de vos effets AR sur Facebook et Instagram.
 > Assurez-vous que vous êtes connecté au compte Facebook / Instagram où vous voulez publier l'effet.
 
 ![alt text](images/31.PNG)
@@ -183,7 +182,7 @@ Sur cette page de Spark AR Hub, renseignez les informations demandées : Nom (Fa
 
 Prenez une courte (2 minutes maximum) vidéo de votre filtre en action avec Instagram ou avec votre smartphone qui montrera aux gens ce que fait votre filtre sans avoir à le télécharger. Une fois que vous êtes satisfait de la vidéo, importez là au niveau de la zone « video Demo » puis cliquez " Enregistrer “ dans le coin supérieur droit de la page.
 
-10. **Vérifiez les informations et soumettez votre filtre.**  Si vous êtes prêt à publier votre filtre une fois que vous avez tous soumi et  verifie les informations  demandées, cliquez sur le bouton " Envoyer" dans le coin supérieur droit de la page pour soumettre votre filtre à l'examen de Facebook. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. 
+12. **Vérifiez les informations et soumettez votre filtre.**  Si vous êtes prêt à publier votre filtre une fois que vous avez tous soumi et  verifie les informations  demandées, cliquez sur le bouton " Envoyer" dans le coin supérieur droit de la page pour soumettre votre filtre à l'examen de Facebook. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. 
 
 Si vous souhaiter tester notre filtre cliquez ici [FanMaskCmr](https://www.instagram.com/ar/2818115521758316/?ch=ZmRhZGJlMGYyZWI2NDRlOTc0MzFiZjA2MDkwMWEwMjc%3D) .
 
