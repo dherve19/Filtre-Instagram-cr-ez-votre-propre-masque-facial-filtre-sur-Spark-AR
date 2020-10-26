@@ -128,23 +128,23 @@ Vous obtiendrez ce résultat dans la zone 4
 
 4.**Téléchargez votre actif** qui peut être dans le cadre de ce tutoriel le drapeau d'un pays, d'une équipe ou d'un club de football, basket-ball etc. que vous enregistrerez sur votre bureau au nom de "**Flag**". Pour ce tutoriel, nous utiliserons une image du drapeau du Cameroun que vous pouvez trouver à l'adresse suivante [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
 
-5. **Importez votre actif « flag » à vos assets (actifs).** ** Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « Import From Computer ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « flag » puis sur "ouvrir". Un moyen simple d'importer votre actif à vos assets consiste à faire glisser et déposer votre actif image « flag » dans les assets (actifs).  
+5. **Importez votre actif « flag » à vos assets (actifs).** Pour ce faire, cliquez sur le bouton « Add Asset» dans la zone 3, puis cliquez sur « **Import From Computer** ». Dans la fenêtre qui s'ouvrira, accédez à votre bureau, cliquez sur votre actif image « **Flag** » puis sur "ouvrir". Un moyen simple d'importer votre actif à vos assets consiste à faire glisser et déposer votre actif image « **Flag** » dans les assets (actifs).  
 
 ![alt text](images/21.PNG)
 
-Pour éviter de perdre la qualité de votre image, cochez la case « No Compression » dans la zone 5.
+Pour éviter de perdre la qualité de votre image, cochez la case « **No Compression** » dans la zone 5.
 
 ![alt text](images/22.PNG)
 
-6. **Ajoutez une texture sur votre matériau « facemap».** faites un clic sur le  matériau « facemap », cliquez sur la propriété « **Texture**» dans la zone 5 et choisissez l'actif « flag » dans la liste proposée. 
+6. **Ajoutez une texture sur votre matériau « facemap».** faites un clic sur le  matériau « **Facemap** », cliquez sur la propriété « **Texture**» dans la zone 5 et choisissez l'actif « flag » dans la liste proposée. 
 
 ![alt text](images/23.PNG)
 
-Ajustez l'opacité (Opacity) et la luminosité (Brightness) à votre guise ou la double face (Double-sided) pour afficher les deux côtés d'une face normale.
+Ajustez l'opacité (Opacity), la luminosité (Brightness) à votre guise et cochez la case « **Double-sided**  » (Double Face) pour afficher les deux côtés d'une face normale.
 
 ![alt text](images/25.PNG)
 
-7.**Modifiez le « Shader Type » de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « Shader Type »  et selectionnez « Face Paint » dans la liste proposée. 
+7.**Modifiez le « Shader Type » de votre materiau en « Face Paint ».** Dans la zone 5, CLIquez le « **Shader Type** »  et selectionnez « **Face Paint** » dans la liste proposée. 
 
 ![alt text](images/34.PNG)
 
@@ -154,12 +154,14 @@ Vous obtiendrez ce résultat dans la zone 4.
 
 > **Remarque:** Généralement lorsqu on utilise un filtre sur les reseau sociaux on a une peau lisse. Pour y arriver, rajoutez un «Face Mesh » selon la méthode vue au point 3. Mettez un materiau à votre nouveau «Face Mesh», Modifiez le «Shader Type» de votre materiau en « Retouching» et enfin lissez la peau visage en ajustant le «Skin Smoothing » jusqu à 100.
 
-8. **Testez votre filtre votre filtre pour voir comment il se manifeste sur d'autres types de visage en temps réel.** Sur votre smartphone, installez l'application Spark AR Player puis connectez votre smartphone à votre ordinateur à l'aide d'un câble USB. Dans le coin inferieur gauche de la zone 1, cliquez sur l’icône smartphone ensuite sur « Send » dans nouvelle fenêtre. Votre filtre se lancera automatiquement sur votre smartphone. D'autre part, si vous avez une webcam, cliquez sur l'icône de la caméra dans la zone 1. Vous verrez un bouton « PC Camera » au-dessus des visages pour interactif en direct sur votre ordinateur, ou Changez  de personnage pour avoir un autre aperçu de votre filtre sur diffèrent type de visage et faites les ajustements supplémentaires que vous souhaitez.
+8. **Testez votre filtre votre filtre pour voir comment il se manifeste sur d'autres types de visage en temps réel.** Sur votre smartphone, installez l'application Spark AR Player puis connectez votre smartphone à votre ordinateur à l'aide d'un câble USB. Dans le coin inferieur gauche de la zone 1, cliquez sur l’icône smartphone ensuite sur « **Send** » dans nouvelle fenêtre. Votre filtre se lancera automatiquement sur votre smartphone. D'autre part, si vous avez une webcam, cliquez sur l'icône de la caméra dans la zone 1. Vous verrez un bouton « **PC Camera** » au-dessus des visages pour interactif en direct sur votre ordinateur, ou Changez  de personnage pour avoir un autre aperçu de votre filtre sur diffèrent type de visage et faites les ajustements supplémentaires que vous souhaitez.
 
 ![alt text](images/27.PNG) 
 
+> Maintenant que vous avez un filtre qui fonctionne, voyons comment le rendre public sur les réseaux sociaux.
+
 ## Publier votre filtre fanMask sur Instagram
-9. **Enregistrez votre projet dans un dossier.** Maintenant que vous avez un filtre qui fonctionne, enregistrez le projet dans un dossier local en cliquant sur « File » (à gauche et en haut de votre écran) et en sélectionnant l'option « Save AS ». Une fenêtre s'ouvrira, Choisissez un emplacement de sauvegarde que vous pourrez facilement trouver plus tard et renommez votre projet en **FanMask** avant la sauvergarde. 
+9. **Enregistrez votre projet dans un dossier.** Pour enregistrer le projet dans un dossier local il faut cliquer sur « **File** » (à gauche et en haut de votre écran) et en sélectionnez l'option « **Save As** ». Une fenêtre s'ouvrira, Choisissez un emplacement de sauvegarde que vous pourrez facilement trouver plus tard et renommez votre projet en **FanMask** avant la sauvergarde. 
 
 ![alt text](images/26.PNG)
 
@@ -176,11 +178,11 @@ Une fenêtre s'ouvrira pour indiquer l'espace que votre filtre utilisera sur dif
 
 ![alt text](images/31.PNG)
 
-Sur cette page de Spark AR Hub, renseignez les informations demandées : Nom (FanMaskCmr), Plateforme (Instagram), Propriétés (votre nom de compte Instagram), Catégories (Évènements etc.). Dans la section "Icône d'effet", faites glisser et déposer une image que vous souhaitez utiliser pour représenter votre filtre Instagram. Sur la zone « video Demo », vous aurez deux options : " Enregistrer une vidéo" et "Importer un fichier". L’option “ Enregistrer une vidéo" vous donnera un lien que vous pourrez envoyer à vos amis, votre famille ou vos collègues pour qu'ils puissent tester votre filtre Instagram.
+Sur cette page de Spark AR Hub, renseignez les informations demandées : Nom (FanMaskCmr), Plateforme (Instagram), Propriétés (votre nom de compte Instagram), Catégories (Évènements etc.). Dans la section « **Icône d'effet** » faites glisser et déposer une image que vous souhaitez utiliser pour représenter votre filtre Instagram. Sur la zone « **video Demo** », vous aurez deux options : « **Enregistrer une vidéo** » et « **Importer un fichier** ». L’option “ Enregistrer une vidéo» vous donnera un lien que vous pourrez envoyer à vos amis, votre famille ou vos collègues pour qu'ils puissent tester votre filtre Instagram.
 
 ![alt text](images/32.PNG)
 
-Prenez une courte (2 minutes maximum) vidéo de votre filtre en action avec Instagram ou avec votre smartphone qui montrera aux gens ce que fait votre filtre sans avoir à le télécharger. Une fois que vous êtes satisfait de la vidéo, importez là au niveau de la zone « video Demo » puis cliquez " Enregistrer “ dans le coin supérieur droit de la page.
+Prenez une courte (2 minutes maximum) vidéo de votre filtre en action avec Instagram ou avec votre smartphone qui montrera aux gens ce que fait votre filtre sans avoir à le télécharger. Une fois que vous êtes satisfait de la vidéo, importez là au niveau de la zone « **video Demo** » puis cliquez « **Enregistrer** » dans le coin supérieur droit de la page.
 
 12. **Vérifiez les informations et soumettez votre filtre.**  Si vous êtes prêt à publier votre filtre une fois que vous avez tous soumi et  verifie les informations  demandées, cliquez sur le bouton " Envoyer" dans le coin supérieur droit de la page pour soumettre votre filtre à l'examen de Facebook. Le processus peut prendre des jours, et si votre filtre AR répond aux différentes directives, il apparaîtra pour utilisation. 
 
